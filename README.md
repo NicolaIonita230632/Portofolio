@@ -26,10 +26,10 @@ Led mixed-methods research on AI chatbot personalization impact on SME customer 
 Developed systematic debugging methodology for a high-throughput phenotyping system processing 10,000+ seedlings. Faced with time constraints, applied creative problem-solving by implementing a simpler, non-traditional approach (Dijkstra's algorithm) that delivered effective results while meeting project deadlines. Implemented iterative improvement processes and resilient approaches to complex technical challenges.  
 **Technologies:** Python, Computer Vision, Data Pipeline Architecture, PID Controllers
 
-### 3. [Project Name 3](./project-3-repo)
-**Role:** [Your role]  
-**Impact:** [Impact]  
-**Skills:** [Skills]
+### 3. [Romanian Emotion Classification Pipeline](https://github.com/BredaUniversityADSAI/2024-25c-fai2-adsai-NicolaIonita230632) (AI Engineer & Project Managing Lead)
+**Role:** AI Engineer & Project Coordinator  
+Built end-to-end NLP pipeline for emotion classification in Romanian reality TV content. Led technical decision-making and project coordination for a 4-person team through complete ML lifecycle. Overcame resource constraints with limited Romanian NLP tools through strategic model selection and creative preprocessing approaches.  
+**Technologies:** Python, Transformers, BERT, XLM-RoBERTa, SHAP, LIME, Whisper, AssemblyAI, Trello
 
 ### 4. [Project Name 4](./project-4-repo)
 **Role:** [Your role]  
