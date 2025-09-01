@@ -31,10 +31,10 @@ Developed systematic debugging methodology for a high-throughput phenotyping sys
 Built end-to-end NLP pipeline for emotion classification in Romanian reality TV content. Led technical decision-making and project coordination for a 4-person team through complete ML lifecycle. Overcame resource constraints with limited Romanian NLP tools through strategic model selection and creative preprocessing approaches.  
 **Technologies:** Python, Transformers, BERT, XLM-RoBERTa, SHAP, LIME, Whisper, AssemblyAI, Trello
 
-### 4. [Project Name 4](./project-4-repo)
-**Role:** [Your role]  
-**Impact:** [Impact]  
-**Skills:** [Skills]
+### 4. [Audiovisual Emotion Detection MLOps Pipeline](https://github.com/BredaUniversityADSAI/2024-25d-fai2-adsai-NicolaIonita230632) (Scrum Master & Managing Lead)
+**Role:** Scrum Master & MLOps Integration  
+Built a complete end-to-end production pipeline enabling stakeholders to upload audiovisual content and receive real-time emotion predictions through an Azure-deployed web application. Led a 5-person team through complex technical integrations while managing crises and maintaining team productivity.  
+**Technologies:** Azure ML, Kubernetes, Docker, Django REST Framework, Whisper, Transformer models, React/HTML, Team Leadership
 
 ### 5. [Project Name 5](./project-5-repo)
 **Role:** [Your role]  
