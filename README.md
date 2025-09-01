@@ -6,68 +6,70 @@
 ---
 
 ## 📌 About Me  
-I have demonstrated leadership in cross-functional teams and expertise in translating technical insights into business strategy. Experienced in bridging AI/ML research with stakeholder needs and product decisions.  
+I specialize in bridging the gap between technical AI/ML work and business value. With strong leadership skills and hands-on experience in both technical development and product translation, I focus on aligning AI solutions with stakeholder needs.  
 
-**Team Role & Specialization**  
-- **Primary Role**: Analytics Translator — bridging data science and business value  
-- **Career Goal**: AI Product Manager — combining technical AI knowledge with product strategy and team leadership  
+**Primary Role:** Analytics Translator — translating complex AI/ML insights into business recommendations  
+**Career Goal:** AI Product Manager — combining technical AI knowledge with product strategy, user research, and team leadership  
 
 ---
 
 ## 🚀 Key Projects  
 
-### 1. 🤖 [Chatbot Trust & Personalization Research](https://github.com/yourrepo/chatbot-trust)  
-**Role:** Analytics Translator & Project Coordinator  
+### 1. [Chatbot Trust & Personalization Research](https://github.com/BredaUniversityADSAI/2024-25a-fai2-adsai-NicolaIonita230632/tree/main) (Team Project)  
+**Role:** Analytics Translator & Project Lead  
 - Led mixed-methods research on chatbot personalization’s impact on SME customer trust.  
-- Coordinated a 4-person team through crisis management and restructuring.  
-- Translated statistical findings *(r=0.6564, p<4.5857e-23)* into **policy recommendations** for SMEs.  
-**Tech:** Python, Qualtrics, LaTeX, Statistical Analysis, Trello  
+- Managed a 5-person cross-functional team through crisis and timeline restructuring.  
+- Translated statistical analysis *(r=0.6564, p < 4.5857e-23)* into actionable **policy recommendations**.  
+**Technologies:** Python, Qualtrics, LaTeX, Statistical Analysis, Trello  
 
 ---
 
-### 2. 🌱 [Plant Phenotyping Data Pipeline](https://github.com/yourrepo/plant-pipeline)  
+### 2. [Plant Phenotyping Data Pipeline](https://github.com/BredaUniversityADSAI/2024-25b-fai2-adsai-NicolaIonita230632/tree/main) (Individual Project)  
 **Role:** Technical Problem Solver & Process Optimizer  
-- Developed debugging methodology for high-throughput phenotyping of 10,000+ seedlings.  
-- Implemented creative, time-efficient solutions under tight deadlines.  
-**Tech:** Python, Computer Vision, Data Pipeline Architecture, PID Controllers  
+- Developed debugging methodology for a high-throughput phenotyping system processing 10,000+ seedlings.  
+- Applied creative problem-solving (including Dijkstra’s algorithm adaptation) to meet deadlines under resource constraints.  
+- Implemented iterative improvement processes and resilient approaches to technical challenges.  
+**Technologies:** Python, Computer Vision, Data Pipeline Architecture, PID Controllers  
 
 ---
 
-### 3. 🎬 [Romanian Emotion Classification Pipeline](https://github.com/yourrepo/romanian-emotion)  
+### 3. [Romanian Emotion Classification Pipeline](https://github.com/BredaUniversityADSAI/2024-25c-fai2-adsai-NicolaIonita230632) (Team Project)  
 **Role:** AI Engineer & Project Coordinator  
-- Built NLP pipeline for emotion classification in Romanian reality TV.  
-- Coordinated technical decision-making and team collaboration.  
-- Overcame limited NLP resources through creative preprocessing and model selection.  
-**Tech:** Python, Transformers, BERT, XLM-RoBERTa, SHAP, LIME, Whisper, AssemblyAI  
+- Built an end-to-end NLP pipeline for emotion classification in Romanian reality TV content.  
+- Coordinated technical decision-making and project management for a 4-person team through the full ML lifecycle.  
+- Overcame resource constraints with limited Romanian NLP tools via strategic model selection and creative preprocessing.  
+**Technologies:** Python, Transformers, BERT, XLM-RoBERTa, SHAP, LIME, Whisper, AssemblyAI, Trello  
 
 ---
 
-### 4. 🎧 [Audiovisual Emotion Detection MLOps Pipeline](https://github.com/yourrepo/emotion-mlops)  
-**Role:** Scrum Master & MLOps Specialist  
-- Built an Azure-deployed pipeline for real-time audiovisual emotion predictions.  
-- Managed a 4-person team through complex technical integrations and crises.  
-**Tech:** Azure ML, Kubernetes, Docker, Django REST, Whisper, Transformer Models, React  
+### 4. [Audiovisual Emotion Detection MLOps Pipeline](https://github.com/BredaUniversityADSAI/2024-25d-fai2-adsai-NicolaIonita230632) (Team Project)  
+**Role:** Scrum Master & MLOps Integration Specialist  
+- Built an end-to-end pipeline enabling stakeholders to upload audiovisual content and receive real-time emotion predictions via an Azure-deployed app.  
+- Managed a 5-person team through complex technical integrations, crises, and productivity challenges.  
+**Technologies:** Azure ML, Kubernetes, Docker, Django REST Framework, Whisper, Transformer Models, React/HTML  
 
 ---
 
-### 5. ♟️ [Chess AI Coach Platform](https://github.com/yourrepo/chess-ai)  
+### 5. [Chess AI Coach Platform](https://github.com/LouieDaans232345/chess-platform) (Team Project)  
 **Role:** Project Manager & Frontend Developer  
-- Coordinated a team of 3 to develop a chess analysis platform with Stockfish integration.  
-- Conducted market research to identify platform gaps; laid technical foundation for future LLM integration.  
-**Tech:** Python, JavaScript, Stockfish, Chess Engine Development, Trello  
+- Coordinated a 3-person team to develop a chess engine and analysis tools for an AI coaching platform.  
+- Built multiple prototypes: from Python/Pygame implementation to a web-based analyzer with Stockfish integration.  
+- Conducted market research identifying gaps in chess platforms and established a foundation for future LLM integration.  
+**Technologies:** Python, JavaScript, HTML/CSS, Stockfish, Chess Engine Development, Trello  
 
 ---
 
-## 🛠️ Core Competencies  
-- **User Research & Analysis**: Surveys, interviews, stakeholder analysis, competitive market research  
-- **Cross-Functional Team Coordination**: Led 3–4 person teams across 5+ projects  
-- **Data-Driven Strategy**: Statistical modeling, hypothesis testing, A/B testing  
-- **Technical Communication**: Translating AI/ML findings into business/policy insights  
-- **Product Development**: Requirements gathering, roadmap planning, risk assessment  
-- **Process Optimization**: Systematic debugging, crisis management, iterative improvement  
-- **Technical Implementation**: Full-stack ML deployment (data → model → API → UI)  
+## 🛠️ Core Competencies for AI Product Management  
+
+- **User Research & Analysis**: Mixed-methods research, stakeholder analysis, competitive market research  
+- **Cross-Functional Leadership**: Led teams of 3–5 across multiple projects; crisis management & stakeholder alignment  
+- **Data-Driven Strategy**: Statistical modeling, hypothesis testing, performance metrics, A/B testing frameworks  
+- **Technical Communication**: Translating AI/ML concepts for business stakeholders and policy recommendations  
+- **Product Development**: Requirements gathering, roadmap planning, risk assessment, iterative development  
+- **Process Optimization**: Systematic debugging, crisis management, iterative improvement methodologies  
+- **Technical Implementation**: Full-stack ML deployment — data pipelines → model development → API → frontend  
 
 ---
 
-📫 **Let’s Connect**  
-[LinkedIn](your-linkedin) | [Email](carmennikola@gmail.com) | [Portfolio Website](your-pages-link)  
+📫 **Connect with Me**  
+[LinkedIn](https://www.linkedin.com/in/carmen-nicola-ioni%C8%9B%C4%83-415b822a0/) | [Email](carmennikola@gmail.com) | [Portfolio Website](https://nicola-ionita-portofolio.lovable.app/)  
