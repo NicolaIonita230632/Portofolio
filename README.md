@@ -18,12 +18,12 @@ Data Science & AI student (Year 3) with demonstrated leadership in cross-functio
 
 ### 1. [Chatbot Trust & Personalization Research](https://github.com/BredaUniversityADSAI/2024-25a-fai2-adsai-NicolaIonita230632/tree/main) (Team Lead)
 **Role:** Analytics Translator & Project Lead  
-Led mixed-methods research on AI chatbot personalization impact on SME customer trust. Managed 5-person cross-functional team through crisis and timeline restructuring. Translated statistical analysis (r=0.6564, p<4.5857e-23) into policy recommendations.  
+Led mixed-methods research on AI chatbot personalization impact on SME customer trust. Managed a 5-person cross-functional team through a crisis and timeline restructuring. Translated statistical analysis (r=0.6564, p<4.5857e-23) into policy recommendations.  
 **Technologies:** Python, Qualtrics, LaTeX, Statistical Analysis, Trello
 
 ### 2. [Plant Phenotyping Data Pipeline](https://github.com/BredaUniversityADSAI/2024-25b-fai2-adsai-NicolaIonita230632/tree/main) (Individual Project)
 **Role:** Technical Problem Solver & Process Optimizer  
-Developed systematic debugging methodology for high-throughput phenotyping system processing 10,000+ seedlings. Implemented iterative improvement processes and resilient approaches to complex technical challenges.  
+Developed systematic debugging methodology for a high-throughput phenotyping system processing 10,000+ seedlings. Faced with time constraints, applied creative problem-solving by implementing a simpler, non-traditional approach (Dijkstra's algorithm) that delivered effective results while meeting project deadlines. Implemented iterative improvement processes and resilient approaches to complex technical challenges.  
 **Technologies:** Python, Computer Vision, Data Pipeline Architecture, PID Controllers
 
 ### 3. [Project Name 3](./project-3-repo)
