@@ -33,7 +33,7 @@ I specialize in bridging the gap between technical AI/ML work and business value
 
 ---
 
-### 3. [Romanian Emotion Classification Pipeline](https://github.com/BredaUniversityADSAI/2024-25c-fai2-adsai-NicolaIonita230632) (Team Project)  
+### 3. [Romanian Emotion Classification Pipeline](https://github.com/NicolaIonita230632/Portofolio/tree/main/Romanian%20Emotion%20Classification%20Pipeline) (Team Project)  
 **Role:** AI Engineer & Project Coordinator  
 - Built an end-to-end NLP pipeline for emotion classification in Romanian reality TV content.  
 - Coordinated technical decision-making and project management for a 4-person team through the full ML lifecycle.  
