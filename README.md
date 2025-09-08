@@ -24,7 +24,7 @@ I specialize in bridging the gap between technical AI/ML work and business value
 
 ---
 
-### 2. [Plant Phenotyping Data Pipeline](https://github.com/BredaUniversityADSAI/2024-25b-fai2-adsai-NicolaIonita230632/tree/main) (Individual Project)  
+### 2. [Plant Phenotyping Data Pipeline](https://github.com/NicolaIonita230632/Portofolio/tree/main/Plant%20Phenotyping%20Data%20Pipeline) (Individual Project)  
 **Role:** Technical Problem Solver & Process Optimizer  
 - Developed debugging methodology for a high-throughput phenotyping system processing 10,000+ seedlings.  
 - Applied creative problem-solving (including Dijkstra’s algorithm adaptation) to meet deadlines under resource constraints.  
