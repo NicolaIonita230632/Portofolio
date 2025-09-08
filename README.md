@@ -15,7 +15,7 @@ I specialize in bridging the gap between technical AI/ML work and business value
 
 ## 🚀 Key Projects  
 
-### 1. [Chatbot Trust & Personalization Research](https://github.com/BredaUniversityADSAI/2024-25a-fai2-adsai-NicolaIonita230632/tree/main) (Team Project)  
+### 1. [Chatbot Trust & Personalization Research](https://github.com/NicolaIonita230632/Portofolio/tree/main/Chatbot%20Trust%20and%20Acceptance) (Team Project)  
 **Role:** Analytics Translator & Project Lead  
 - Led mixed-methods research on chatbot personalization’s impact on SME customer trust.  
 - Managed a 5-person cross-functional team through crisis and timeline restructuring.  
