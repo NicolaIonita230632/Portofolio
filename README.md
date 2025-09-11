@@ -42,7 +42,7 @@ I specialize in bridging the gap between technical AI/ML work and business value
 
 ---
 
-### 4. [Audiovisual Emotion Detection MLOps Pipeline](https://github.com/BredaUniversityADSAI/2024-25d-fai2-adsai-NicolaIonita230632) (Team Project)  
+### 4. [Audiovisual Emotion Detection MLOps Pipeline](https://github.com/NicolaIonita230632/Portofolio/tree/main/Audiovisual%20Emotion%20Detection%20MLOps%20Pipeline) (Team Project)  
 **Role:** Scrum Master & MLOps Integration Specialist  
 - Built an end-to-end pipeline enabling stakeholders to upload audiovisual content and receive real-time emotion predictions via an Azure-deployed app.  
 - Managed a 5-person team through complex technical integrations, crises, and productivity challenges.  
