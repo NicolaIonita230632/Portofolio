@@ -72,4 +72,4 @@ I specialize in bridging the gap between technical AI/ML work and business value
 ---
 
 📫 **Connect with Me**  
-[LinkedIn](https://www.linkedin.com/in/carmen-nicola-ioni%C8%9B%C4%83-415b822a0/) | [Email](carmennikola@gmail.com) | [Portfolio Website](https://ionita-carmen-nicola-portofolio.lovable.app/) | [CV](https://europa.eu/europass/eportfolio/screen/share/e69e8081-2bb3-436b-b8bf-747cbf48791c?lang=en)
+[LinkedIn](https://www.linkedin.com/in/carmen-nicola-ioni%C8%9B%C4%83-415b822a0/) | [Email](carmennikola@gmail.com) | [Portfolio Website](https://ionita-carmen-nicola-portofolio.lovable.app/) | [CV](https://europa.eu/europass/eportfolio/screen/share/7998a5f4-e232-423e-a25f-7b5a09423229?lang=en)
