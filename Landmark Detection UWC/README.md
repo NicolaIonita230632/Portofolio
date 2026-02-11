@@ -265,15 +265,6 @@ This project showcases critical AI Product Manager capabilities:
 
 ---
 
-## 🙏 Acknowledgments
-
-**Clinical Partner:** University of the Western Cape Faculty of Dentistry  
-**Supervisor:** Dr. Suvarna Indermun  
-**Team:** Victor, Arnout, Yorbe, Jason  
-**Dataset Contributors:** Aariz, PKU, ISBI 2015 Grand Challenge
-
----
-
 **Status:** ✅ Completed (January 2025)  
 **Clinical Impact:** First model exceeding deployment threshold for South African patients  
 **Research Significance:** Demonstrated population-specific training mitigates AI bias in healthcare
