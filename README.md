@@ -59,7 +59,7 @@ I specialize in bridging the gap between technical AI/ML work and business value
 
 ---
 
-### 6. [Cephalometric Landmark Detection - Geographic Bias Mitigation](https://github.com/NicolaIonita230632/Portofolio/tree/main/Cephalometric%20Landmark%20Detection) (Team Project)  
+### 6. [Cephalometric Landmark Detection - Geographic Bias Mitigation](https://github.com/NicolaIonita230632/Portofolio/tree/main/Landmark%20Detection%20UWC) (Team Project)  
 **Role:** Analytics Translator  
 - Collaborating with University of the Western Cape Faculty of Dentistry to address geographic bias in AI dental diagnostics.  
 - Led data quality validation achieving 99.8% Data Quality KPI across 1,714 medical imaging samples while developing DeepFuse architecture.  
