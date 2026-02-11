@@ -15,21 +15,21 @@ I specialize in bridging the gap between technical AI/ML work and business value
 
 ## 🚀 Key Projects  
 
-### 1. [Chatbot Trust & Personalization Research](https://github.com/NicolaIonita230632/Portofolio/tree/main/Chatbot%20Trust%20and%20Acceptance) (Team Project)  
-**Role:** Analytics Translator & Project Coordinator  
-- Led mixed-methods research on chatbot personalization's impact on SME customer trust.  
-- Coordinated 4-person cross-functional team through crisis and timeline restructuring.  
-- Translated statistical analysis *(r=0.6564, p < 4.5857e-23)* into actionable **policy recommendations**.  
-**Technologies:** Python, Qualtrics, LaTeX, Statistical Analysis, Trello  
+### 1. [Cephalometric Landmark Detection - Geographic Bias Mitigation](https://github.com/NicolaIonita230632/Portofolio/tree/main/Landmark%20Detection%20UWC) (Team Project)  
+**Role:** Analytics Translator  
+- Collaborating with University of the Western Cape Faculty of Dentistry to address geographic bias in AI dental diagnostics.  
+- Led data quality validation achieving 99.8% Data Quality KPI across 1,714 medical imaging samples while developing DeepFuse architecture.  
+- Achieved 1.20mm MRE with 85.8% clinical deployment threshold—first model to exceed clinical standards for South African patients.  
+- Discovered compression ratio mismatch causing transfer learning failure, leading to successful from-scratch training approach.  
+**Technologies:** Python, PyTorch, ResNet-50, U-Net, Medical Imaging, TMJ Detection, Data Quality Frameworks, Stakeholder Communication  
 
 ---
 
-### 2. [Plant Phenotyping Data Pipeline](https://github.com/NicolaIonita230632/Portofolio/tree/main/Plant%20Phenotyping%20Data%20Pipeline) (Individual Project)  
-**Role:** Technical Problem Solver & Process Optimizer  
-- Developed debugging methodology for a high-throughput phenotyping system processing 10,000+ seedlings.  
-- Applied creative problem-solving under time constraints to deliver effective results while meeting project deadlines.  
-- Implemented iterative improvement processes and resilient approaches to complex technical challenges.  
-**Technologies:** Python, Computer Vision, Data Pipeline Architecture, PID Controllers  
+### 2. [Audiovisual Emotion Detection MLOps Pipeline](https://github.com/NicolaIonita230632/Portofolio/tree/main/Audiovisual%20Emotion%20Detection%20MLOps%20Pipeline) (Team Project)  
+**Role:** Scrum Master & MLOps Integration Specialist  
+- Built complete end-to-end production pipeline enabling stakeholders to upload audiovisual content and receive real-time emotion predictions through Azure-deployed web application.  
+- Managed 4-person team through complex technical integrations while handling crisis situations and maintaining team productivity.  
+**Technologies:** Azure ML, Kubernetes, Docker, Django REST Framework, Whisper, Transformer Models, React/HTML  
 
 ---
 
@@ -42,15 +42,7 @@ I specialize in bridging the gap between technical AI/ML work and business value
 
 ---
 
-### 4. [Audiovisual Emotion Detection MLOps Pipeline](https://github.com/NicolaIonita230632/Portofolio/tree/main/Audiovisual%20Emotion%20Detection%20MLOps%20Pipeline) (Team Project)  
-**Role:** Scrum Master & MLOps Integration Specialist  
-- Built complete end-to-end production pipeline enabling stakeholders to upload audiovisual content and receive real-time emotion predictions through Azure-deployed web application.  
-- Managed 4-person team through complex technical integrations while handling crisis situations and maintaining team productivity.  
-**Technologies:** Azure ML, Kubernetes, Docker, Django REST Framework, Whisper, Transformer Models, React/HTML  
-
----
-
-### 5. [Chess AI Coach Platform](https://github.com/LouieDaans232345/chess-platform) (Team Project)  
+### 4. [Chess AI Coach Platform](https://github.com/LouieDaans232345/chess-platform) (Team Project)  
 **Role:** Project Manager & Frontend Developer  
 - Coordinated 3-person team to develop foundational chess engine and analysis tools for AI coaching platform.  
 - Built multiple working prototypes progressing from basic Python/Pygame implementation to web-based chess analyzer with Stockfish integration.  
@@ -59,13 +51,21 @@ I specialize in bridging the gap between technical AI/ML work and business value
 
 ---
 
-### 6. [Cephalometric Landmark Detection - Geographic Bias Mitigation](https://github.com/NicolaIonita230632/Portofolio/tree/main/Landmark%20Detection%20UWC) (Team Project)  
-**Role:** Analytics Translator  
-- Collaborating with University of the Western Cape Faculty of Dentistry to address geographic bias in AI dental diagnostics.  
-- Led data quality validation achieving 99.8% Data Quality KPI across 1,714 medical imaging samples while developing DeepFuse architecture.  
-- Achieved 1.20mm MRE with 85.8% clinical deployment threshold—first model to exceed clinical standards for South African patients.  
-- Discovered compression ratio mismatch causing transfer learning failure, leading to successful from-scratch training approach.  
-**Technologies:** Python, PyTorch, ResNet-50, U-Net, Medical Imaging, TMJ Detection, Data Quality Frameworks, Stakeholder Communication  
+### 5. [Plant Phenotyping Data Pipeline](https://github.com/NicolaIonita230632/Portofolio/tree/main/Plant%20Phenotyping%20Data%20Pipeline) (Individual Project)  
+**Role:** Technical Problem Solver & Process Optimizer  
+- Developed debugging methodology for a high-throughput phenotyping system processing 10,000+ seedlings.  
+- Applied creative problem-solving under time constraints to deliver effective results while meeting project deadlines.  
+- Implemented iterative improvement processes and resilient approaches to complex technical challenges.  
+**Technologies:** Python, Computer Vision, Data Pipeline Architecture, PID Controllers  
+
+---
+
+### 6. [Chatbot Trust & Personalization Research](https://github.com/NicolaIonita230632/Portofolio/tree/main/Chatbot%20Trust%20and%20Acceptance) (Team Project)  
+**Role:** Analytics Translator & Project Coordinator  
+- Led mixed-methods research on chatbot personalization's impact on SME customer trust.  
+- Coordinated 4-person cross-functional team through crisis and timeline restructuring.  
+- Translated statistical analysis *(r=0.6564, p < 4.5857e-23)* into actionable **policy recommendations**.  
+**Technologies:** Python, Qualtrics, LaTeX, Statistical Analysis, Trello  
 
 ---
 
