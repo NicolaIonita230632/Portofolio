@@ -20,7 +20,6 @@ Existing commercial AI tools for cephalometric analysis (BoneFinder, DentaliQ, W
 
 ## 👥 Team & Collaboration
 
-**Team Members:** Victor, Arnout, Yorbe, Jason, Nicola  
 **My Role:** Analytics Translator  
 **Research Partner:** University of the Western Cape Faculty of Dentistry  
 **Clinical Supervisor:** Dr. Suvarna Indermun  
